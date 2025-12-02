@@ -27,7 +27,7 @@ jobs:
         env:
           API_KEY: ${{ secrets.API_KEY }}
         run: |
-          python src/update_players.py
+          python turkishleague.py
 
       - name: Commit & Push updated JSON
         run: |
