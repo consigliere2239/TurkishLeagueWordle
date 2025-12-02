@@ -1,0 +1,37 @@
+name: Update Players JSON
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # her gün 03:00 UTC
+  workflow_dispatch:       # manuel çalıştırabilmek için
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run update_players.py
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+        run: |
+          python src/update_players.py
+
+      - name: Commit & Push updated JSON
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add data/players.json
+          git commit -m "Auto-update players.json" || echo "No changes to commit"
+          git push
