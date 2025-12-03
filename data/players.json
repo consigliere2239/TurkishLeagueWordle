@@ -1267,7 +1267,7 @@
     "id": 50929,
     "name": "Ruan",
     "age": 30,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 13,
     "team": "Göztepe"
   },
@@ -1371,7 +1371,7 @@
     "id": 328155,
     "name": "A. Kurtulan",
     "age": 23,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 2,
     "team": "Göztepe"
   },
@@ -2048,6 +2048,14 @@
     "team": "Trabzonspor"
   },
   {
+    "id": 463101,
+    "name": "O. ÃakıroÄlu",
+    "age": 18,
+    "position": "Attacker",
+    "number": 17,
+    "team": "Trabzonspor"
+  },
+  {
     "id": 319514,
     "name": "C. Çanak",
     "age": 20,
@@ -2339,7 +2347,7 @@
     "id": 24884,
     "name": "A. Opoku",
     "age": 26,
-    "position": "Defender",
+    "position": "Attacker",
     "number": 30,
     "team": "Kayserispor"
   },
