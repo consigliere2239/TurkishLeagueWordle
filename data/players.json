@@ -496,14 +496,6 @@
     "team": "Konyaspor"
   },
   {
-    "id": 478076,
-    "name": "E. Gündoğdu",
-    "age": 16,
-    "position": "Goalkeeper",
-    "number": 66,
-    "team": "Konyaspor"
-  },
-  {
     "id": 194689,
     "name": "B. Güngördü",
     "age": 29,
@@ -659,7 +651,7 @@
     "id": 144656,
     "name": "J. Muleka",
     "age": 26,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 40,
     "team": "Konyaspor"
   },
@@ -1419,7 +1411,7 @@
     "id": 50079,
     "name": "F. Aksoy",
     "age": 28,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 20,
     "team": "Alanyaspor"
   },
@@ -1440,11 +1432,11 @@
     "team": "Alanyaspor"
   },
   {
-    "id": 593486,
-    "name": "Ekin Ciftci",
-    "age": 16,
+    "id": 626357,
+    "name": "Semih Doganay",
+    "age": 18,
     "position": "Defender",
-    "number": 89,
+    "number": 79,
     "team": "Alanyaspor"
   },
   {
@@ -1568,14 +1560,6 @@
     "team": "Alanyaspor"
   },
   {
-    "id": 499159,
-    "name": "Islam Aydın",
-    "age": 19,
-    "position": "Attacker",
-    "number": 14,
-    "team": "Alanyaspor"
-  },
-  {
     "id": 3034,
     "name": "M. Elia",
     "age": 28,
@@ -1613,6 +1597,14 @@
     "age": 20,
     "position": "Midfielder",
     "number": 11,
+    "team": "Alanyaspor"
+  },
+  {
+    "id": 619620,
+    "name": "H. Sen",
+    "age": 16,
+    "position": "Attacker",
+    "number": 35,
     "team": "Alanyaspor"
   },
   {
@@ -1862,14 +1854,6 @@
     "position": "Midfielder",
     "number": 70,
     "team": "Genclerbirligi"
-  },
-  {
-    "id": 593478,
-    "name": "Muhammet Aktas",
-    "age": 18,
-    "position": "Goalkeeper",
-    "number": 90,
-    "team": "Trabzonspor"
   },
   {
     "id": 550892,
@@ -3592,6 +3576,14 @@
     "team": "Fatih Karagümrük"
   },
   {
+    "id": 627099,
+    "name": "B. Evli",
+    "age": 16,
+    "position": "Goalkeeper",
+    "number": 98,
+    "team": "Fatih Karagümrük"
+  },
+  {
     "id": 14382,
     "name": "I. Grbić",
     "age": 29,
@@ -3653,6 +3645,14 @@
     "age": 23,
     "position": "Defender",
     "number": 33,
+    "team": "Fatih Karagümrük"
+  },
+  {
+    "id": 627100,
+    "name": "E. Olcay",
+    "age": 18,
+    "position": "Defender",
+    "number": 84,
     "team": "Fatih Karagümrük"
   },
   {
@@ -3747,7 +3747,7 @@
     "id": 41477,
     "name": "João Camacho",
     "age": 31,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 37,
     "team": "Fatih Karagümrük"
   },
@@ -3755,7 +3755,7 @@
     "id": 309815,
     "name": "T. Çukur",
     "age": 23,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 21,
     "team": "Fatih Karagümrük"
   },
@@ -4072,6 +4072,14 @@
     "team": "Kocaelispor"
   },
   {
+    "id": 593493,
+    "name": "Serhat Oztasdelen",
+    "age": 20,
+    "position": "Goalkeeper",
+    "number": 83,
+    "team": "Kocaelispor"
+  },
+  {
     "id": 180763,
     "name": "B. Balogh",
     "age": 23,
@@ -4109,6 +4117,14 @@
     "age": 33,
     "position": "Defender",
     "number": 21,
+    "team": "Kocaelispor"
+  },
+  {
+    "id": 626936,
+    "name": "Muhammed Kucuk",
+    "age": 18,
+    "position": "Defender",
+    "number": 89,
     "team": "Kocaelispor"
   },
   {
@@ -4184,6 +4200,14 @@
     "team": "Kocaelispor"
   },
   {
+    "id": 626937,
+    "name": "Esat Narin",
+    "age": 18,
+    "position": "Midfielder",
+    "number": 94,
+    "team": "Kocaelispor"
+  },
+  {
     "id": 340078,
     "name": "J. Nonge Boende",
     "age": 20,
@@ -4219,7 +4243,7 @@
     "id": 87791,
     "name": "D. Agyei",
     "age": 28,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 7,
     "team": "Kocaelispor"
   },
