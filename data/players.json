@@ -1632,6 +1632,14 @@
     "team": "Genclerbirligi"
   },
   {
+    "id": 627039,
+    "name": "Deniz Cukurcu",
+    "age": 17,
+    "position": "Goalkeeper",
+    "number": 19,
+    "team": "Genclerbirligi"
+  },
+  {
     "id": 61924,
     "name": "E. Erentürk",
     "age": 30,
@@ -1760,6 +1768,14 @@
     "team": "Genclerbirligi"
   },
   {
+    "id": 627038,
+    "name": "Hulusi Destici",
+    "age": 17,
+    "position": "Midfielder",
+    "number": 26,
+    "team": "Genclerbirligi"
+  },
+  {
     "id": 2774,
     "name": "O. Etebo",
     "age": 30,
@@ -1773,6 +1789,14 @@
     "age": 22,
     "position": "Midfielder",
     "number": 11,
+    "team": "Genclerbirligi"
+  },
+  {
+    "id": 626932,
+    "name": "Seyfi Kiskanc",
+    "age": 17,
+    "position": "Midfielder",
+    "number": 30,
     "team": "Genclerbirligi"
   },
   {
@@ -1795,7 +1819,7 @@
     "id": 41590,
     "name": "K. Csoboth",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 17,
     "team": "Genclerbirligi"
   },
@@ -2144,6 +2168,14 @@
     "team": "Kayserispor"
   },
   {
+    "id": 627031,
+    "name": "Aras Celik",
+    "age": 15,
+    "position": "Defender",
+    "number": 45,
+    "team": "Kayserispor"
+  },
+  {
     "id": 620048,
     "name": "K. Cihan",
     "age": 18,
@@ -2152,11 +2184,35 @@
     "team": "Kayserispor"
   },
   {
+    "id": 627029,
+    "name": "Ahmet Comert",
+    "age": 17,
+    "position": "Defender",
+    "number": 44,
+    "team": "Kayserispor"
+  },
+  {
+    "id": 627030,
+    "name": "Ertugrul Demirel",
+    "age": 18,
+    "position": "Defender",
+    "number": 47,
+    "team": "Kayserispor"
+  },
+  {
     "id": 67,
     "name": "S. Denswil",
     "age": 32,
     "position": "Defender",
     "number": 4,
+    "team": "Kayserispor"
+  },
+  {
+    "id": 627027,
+    "name": "Enes Gokcek",
+    "age": 18,
+    "position": "Defender",
+    "number": 46,
     "team": "Kayserispor"
   },
   {
@@ -2181,6 +2237,14 @@
     "age": 22,
     "position": "Defender",
     "number": 54,
+    "team": "Kayserispor"
+  },
+  {
+    "id": 626820,
+    "name": "Tarik Obut Mustafa",
+    "age": 18,
+    "position": "Defender",
+    "number": 35,
     "team": "Kayserispor"
   },
   {
@@ -2243,8 +2307,16 @@
     "id": 62419,
     "name": "R. Civelek",
     "age": 29,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 28,
+    "team": "Kayserispor"
+  },
+  {
+    "id": 626927,
+    "name": "Ataol Karapinar",
+    "age": 17,
+    "position": "Midfielder",
+    "number": 34,
     "team": "Kayserispor"
   },
   {
@@ -2264,6 +2336,14 @@
     "team": "Kayserispor"
   },
   {
+    "id": 497535,
+    "name": "N. Özer",
+    "age": 18,
+    "position": "Midfielder",
+    "number": 29,
+    "team": "Kayserispor"
+  },
+  {
     "id": 180756,
     "name": "T. Sarıarslan",
     "age": 21,
@@ -2280,11 +2360,27 @@
     "team": "Kayserispor"
   },
   {
+    "id": 627028,
+    "name": "Muhammet Yasar",
+    "age": 17,
+    "position": "Midfielder",
+    "number": 43,
+    "team": "Kayserispor"
+  },
+  {
     "id": 53659,
     "name": "Miguel Cardoso",
     "age": 31,
     "position": "Midfielder",
     "number": 7,
+    "team": "Kayserispor"
+  },
+  {
+    "id": 626928,
+    "name": "Arda Kabukci",
+    "age": 17,
+    "position": "Attacker",
+    "number": 36,
     "team": "Kayserispor"
   },
   {
@@ -2336,11 +2432,11 @@
     "team": "Kayserispor"
   },
   {
-    "id": 507614,
-    "name": "Alperen Oztas",
-    "age": 18,
+    "id": 627033,
+    "name": "Gunes Talas",
+    "age": 17,
     "position": "Attacker",
-    "number": 88,
+    "number": 41,
     "team": "Kayserispor"
   },
   {
@@ -2528,14 +2624,6 @@
     "team": "Kasımpaşa"
   },
   {
-    "id": 593492,
-    "name": "Muhammed Ayes",
-    "age": 19,
-    "position": "Attacker",
-    "number": 87,
-    "team": "Kasımpaşa"
-  },
-  {
     "id": 36906,
     "name": "Y. Barası",
     "age": 22,
@@ -2632,11 +2720,27 @@
     "team": "Antalyaspor"
   },
   {
+    "id": 627152,
+    "name": "B. Eroglu",
+    "age": 17,
+    "position": "Goalkeeper",
+    "number": 29,
+    "team": "Antalyaspor"
+  },
+  {
     "id": 68180,
     "name": "Julián",
     "age": 34,
     "position": "Goalkeeper",
     "number": 1,
+    "team": "Antalyaspor"
+  },
+  {
+    "id": 619704,
+    "name": "S. Kabakusak",
+    "age": 16,
+    "position": "Goalkeeper",
+    "number": 12,
     "team": "Antalyaspor"
   },
   {
@@ -2696,6 +2800,14 @@
     "team": "Antalyaspor"
   },
   {
+    "id": 627153,
+    "name": "O. Kuray",
+    "age": 19,
+    "position": "Defender",
+    "number": 28,
+    "team": "Antalyaspor"
+  },
+  {
     "id": 49963,
     "name": "B. Öztürk",
     "age": 30,
@@ -2739,7 +2851,7 @@
     "id": 49969,
     "name": "B. Balcı",
     "age": 25,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 7,
     "team": "Antalyaspor"
   },
@@ -2747,7 +2859,7 @@
     "id": 152609,
     "name": "S. Ballet",
     "age": 24,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 11,
     "team": "Antalyaspor"
   },
@@ -2773,6 +2885,14 @@
     "age": 26,
     "position": "Midfielder",
     "number": 10,
+    "team": "Antalyaspor"
+  },
+  {
+    "id": 627154,
+    "name": "M. Ozkul",
+    "age": 18,
+    "position": "Midfielder",
+    "number": 15,
     "team": "Antalyaspor"
   },
   {
@@ -2859,7 +2979,7 @@
     "id": 8946,
     "name": "N. Storm",
     "age": 31,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 26,
     "team": "Antalyaspor"
   },
@@ -2931,7 +3051,7 @@
     "id": 613183,
     "name": "Y. Ayan",
     "age": 17,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 94,
     "team": "Rizespor"
   },
@@ -2981,14 +3101,6 @@
     "age": 30,
     "position": "Midfielder",
     "number": 14,
-    "team": "Rizespor"
-  },
-  {
-    "id": 593490,
-    "name": "Muhammed Baltaci",
-    "age": 19,
-    "position": "Midfielder",
-    "number": 96,
     "team": "Rizespor"
   },
   {
@@ -3120,6 +3232,14 @@
     "team": "Gazişehir Gaziantep"
   },
   {
+    "id": 627119,
+    "name": "C. Aslan",
+    "age": 17,
+    "position": "Goalkeeper",
+    "number": 81,
+    "team": "Gazişehir Gaziantep"
+  },
+  {
     "id": 61949,
     "name": "B. Bozan",
     "age": 25,
@@ -3133,14 +3253,6 @@
     "age": 25,
     "position": "Goalkeeper",
     "number": 20,
-    "team": "Gazişehir Gaziantep"
-  },
-  {
-    "id": 593485,
-    "name": "Yusuf Nacar",
-    "age": 18,
-    "position": "Goalkeeper",
-    "number": 90,
     "team": "Gazişehir Gaziantep"
   },
   {
@@ -3176,6 +3288,14 @@
     "team": "Gazişehir Gaziantep"
   },
   {
+    "id": 627120,
+    "name": "M. Mujdeci",
+    "age": null,
+    "position": "Defender",
+    "number": 83,
+    "team": "Gazişehir Gaziantep"
+  },
+  {
     "id": 138915,
     "name": "R. Nizet",
     "age": 23,
@@ -3187,7 +3307,7 @@
     "id": 47078,
     "name": "Luis Pérez",
     "age": 30,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 2,
     "team": "Gazişehir Gaziantep"
   },
@@ -3195,7 +3315,7 @@
     "id": 47304,
     "name": "Kévin Rodrigues",
     "age": 31,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 77,
     "team": "Gazişehir Gaziantep"
   },
@@ -3243,7 +3363,7 @@
     "id": 64304,
     "name": "K. Kozłowski",
     "age": 22,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 10,
     "team": "Gazişehir Gaziantep"
   },
@@ -3251,7 +3371,7 @@
     "id": 25921,
     "name": "A. Maxim",
     "age": 35,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 44,
     "team": "Gazişehir Gaziantep"
   },
@@ -3280,6 +3400,14 @@
     "team": "Gazişehir Gaziantep"
   },
   {
+    "id": 626984,
+    "name": "M. Akmelek",
+    "age": 16,
+    "position": "Attacker",
+    "number": 85,
+    "team": "Gazişehir Gaziantep"
+  },
+  {
     "id": 19047,
     "name": "J. Bacuna",
     "age": 28,
@@ -3301,6 +3429,14 @@
     "age": 29,
     "position": "Attacker",
     "number": 21,
+    "team": "Gazişehir Gaziantep"
+  },
+  {
+    "id": 627121,
+    "name": "M. Bodur",
+    "age": 17,
+    "position": "Attacker",
+    "number": 82,
     "team": "Gazişehir Gaziantep"
   },
   {
@@ -3331,7 +3467,7 @@
     "id": 550858,
     "name": "C. Lungoyi",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 11,
     "team": "Gazişehir Gaziantep"
   },
@@ -3341,14 +3477,6 @@
     "age": 18,
     "position": "Attacker",
     "number": 25,
-    "team": "Gazişehir Gaziantep"
-  },
-  {
-    "id": 503891,
-    "name": "Çagan Tas",
-    "age": 19,
-    "position": "Attacker",
-    "number": 67,
     "team": "Gazişehir Gaziantep"
   },
   {
@@ -3373,6 +3501,14 @@
     "age": 21,
     "position": "Goalkeeper",
     "number": 24,
+    "team": "Eyüpspor"
+  },
+  {
+    "id": 626938,
+    "name": "Burak Isik",
+    "age": 17,
+    "position": "Defender",
+    "number": 43,
     "team": "Eyüpspor"
   },
   {
@@ -3416,6 +3552,14 @@
     "team": "Eyüpspor"
   },
   {
+    "id": 626939,
+    "name": "Kutlay Satli Berhan",
+    "age": 19,
+    "position": "Defender",
+    "number": 42,
+    "team": "Eyüpspor"
+  },
+  {
     "id": 352779,
     "name": "T. Ülvan",
     "age": 24,
@@ -3453,6 +3597,14 @@
     "age": 20,
     "position": "Midfielder",
     "number": 55,
+    "team": "Eyüpspor"
+  },
+  {
+    "id": 626940,
+    "name": "Bedri Kara Omer",
+    "age": 19,
+    "position": "Midfielder",
+    "number": 44,
     "team": "Eyüpspor"
   },
   {
@@ -3563,7 +3715,7 @@
     "id": 50464,
     "name": "M. Thiam",
     "age": 33,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 9,
     "team": "Eyüpspor"
   },
