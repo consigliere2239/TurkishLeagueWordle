@@ -819,7 +819,7 @@
     "id": 134590,
     "name": "O. Aydın",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 70,
     "team": "Fenerbahçe"
   },
@@ -851,7 +851,7 @@
     "id": 302869,
     "name": "N. Dorgeles",
     "age": 23,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 45,
     "team": "Fenerbahçe"
   },
@@ -891,7 +891,7 @@
     "id": 142959,
     "name": "K. Aktürkoğlu",
     "age": 27,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 9,
     "team": "Fenerbahçe"
   },
