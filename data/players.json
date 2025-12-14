@@ -1819,7 +1819,7 @@
     "id": 41590,
     "name": "K. Csoboth",
     "age": 25,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 17,
     "team": "Genclerbirligi"
   },
@@ -1843,7 +1843,7 @@
     "id": 107660,
     "name": "M. Mimaroğlu",
     "age": 31,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 10,
     "team": "Genclerbirligi"
   },
@@ -4155,7 +4155,7 @@
     "id": 531344,
     "name": "E. Ceesay",
     "age": 19,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 99,
     "team": "Samsunspor"
   },
