@@ -1091,7 +1091,7 @@
     "id": 454,
     "name": "Y. Akgün",
     "age": 25,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 11,
     "team": "Galatasaray"
   },
@@ -1411,7 +1411,7 @@
     "id": 50079,
     "name": "F. Aksoy",
     "age": 28,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 20,
     "team": "Alanyaspor"
   },
@@ -2307,7 +2307,7 @@
     "id": 62419,
     "name": "R. Civelek",
     "age": 29,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 28,
     "team": "Kayserispor"
   },
@@ -2443,7 +2443,7 @@
     "id": 68079,
     "name": "I. Tuci",
     "age": 25,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 22,
     "team": "Kayserispor"
   },
@@ -2659,7 +2659,7 @@
     "id": 8642,
     "name": "M. Fall",
     "age": 34,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 7,
     "team": "Kasımpaşa"
   },
@@ -3051,7 +3051,7 @@
     "id": 613183,
     "name": "Y. Ayan",
     "age": 17,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 94,
     "team": "Rizespor"
   },
@@ -3131,7 +3131,7 @@
     "id": 151943,
     "name": "M. Pala",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 54,
     "team": "Rizespor"
   },
@@ -3155,7 +3155,7 @@
     "id": 289306,
     "name": "Loide Augusto",
     "age": 25,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 50,
     "team": "Rizespor"
   },
@@ -3579,7 +3579,7 @@
     "id": 50174,
     "name": "H. Akbunar",
     "age": 32,
-    "position": "Attacker",
+    "position": "Defender",
     "number": 7,
     "team": "Eyüpspor"
   },
@@ -3683,7 +3683,7 @@
     "id": 14565,
     "name": "P. Ampem",
     "age": 27,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 40,
     "team": "Eyüpspor"
   },
@@ -3715,7 +3715,7 @@
     "id": 50464,
     "name": "M. Thiam",
     "age": 33,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 9,
     "team": "Eyüpspor"
   },
