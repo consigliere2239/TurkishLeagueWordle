@@ -403,7 +403,7 @@
     "id": 50018,
     "name": "Ö. Şahiner",
     "age": 33,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 42,
     "team": "Başakşehir"
   },
@@ -467,7 +467,7 @@
     "id": 53535,
     "name": "E. Shomurodov",
     "age": 30,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 14,
     "team": "Başakşehir"
   },
@@ -1291,7 +1291,7 @@
     "id": 26128,
     "name": "E. Bekiroğlu",
     "age": 30,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 11,
     "team": "Göztepe"
   },
@@ -1323,7 +1323,7 @@
     "id": 316904,
     "name": "J. Olaitan",
     "age": 23,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 10,
     "team": "Göztepe"
   },
@@ -2035,7 +2035,7 @@
     "id": 49942,
     "name": "O. Tufan",
     "age": 30,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 11,
     "team": "Trabzonspor"
   },
@@ -3307,7 +3307,7 @@
     "id": 47078,
     "name": "Luis Pérez",
     "age": 30,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 2,
     "team": "Gazişehir Gaziantep"
   },
@@ -3315,7 +3315,7 @@
     "id": 47304,
     "name": "Kévin Rodrigues",
     "age": 31,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 77,
     "team": "Gazişehir Gaziantep"
   },
@@ -3955,7 +3955,7 @@
     "id": 109559,
     "name": "Serginho",
     "age": 30,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 70,
     "team": "Fatih Karagümrük"
   },
@@ -4243,7 +4243,7 @@
     "id": 50176,
     "name": "T. Bingöl",
     "age": 32,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 75,
     "team": "Kocaelispor"
   },
@@ -4403,7 +4403,7 @@
     "id": 105789,
     "name": "D. Churlinov",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 17,
     "team": "Kocaelispor"
   },
