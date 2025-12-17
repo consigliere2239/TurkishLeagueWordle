@@ -179,7 +179,7 @@
     "id": 1997,
     "name": "N. Uysal",
     "age": 34,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 20,
     "team": "Beşiktaş"
   },
@@ -211,7 +211,7 @@
     "id": 141901,
     "name": "Jota Silva",
     "age": 26,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 26,
     "team": "Beşiktaş"
   },
@@ -227,7 +227,7 @@
     "id": 194750,
     "name": "E. Touré",
     "age": 24,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 19,
     "team": "Beşiktaş"
   },
@@ -235,7 +235,7 @@
     "id": 785,
     "name": "C. Ünder",
     "age": 28,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 11,
     "team": "Beşiktaş"
   },
@@ -651,7 +651,7 @@
     "id": 144656,
     "name": "J. Muleka",
     "age": 26,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 40,
     "team": "Konyaspor"
   },
@@ -675,7 +675,7 @@
     "id": 550861,
     "name": "Pedrinho",
     "age": 28,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 8,
     "team": "Konyaspor"
   },
@@ -848,6 +848,14 @@
     "team": "Fenerbahçe"
   },
   {
+    "id": 625427,
+    "name": "Haydar Karataş",
+    "age": 18,
+    "position": "Midfielder",
+    "number": 96,
+    "team": "Fenerbahçe"
+  },
+  {
     "id": 302869,
     "name": "N. Dorgeles",
     "age": 23,
@@ -960,6 +968,14 @@
     "team": "Galatasaray"
   },
   {
+    "id": 568439,
+    "name": "A. Yilmaz",
+    "age": 17,
+    "position": "Goalkeeper",
+    "number": 60,
+    "team": "Galatasaray"
+  },
+  {
     "id": 25448,
     "name": "K. Ayhan",
     "age": 31,
@@ -997,6 +1013,14 @@
     "age": 26,
     "position": "Defender",
     "number": 4,
+    "team": "Galatasaray"
+  },
+  {
+    "id": 568393,
+    "name": "Y. Kahraman",
+    "age": 17,
+    "position": "Defender",
+    "number": 64,
     "team": "Galatasaray"
   },
   {
@@ -1040,6 +1064,14 @@
     "team": "Galatasaray"
   },
   {
+    "id": 568050,
+    "name": "E. Arac",
+    "age": 18,
+    "position": "Midfielder",
+    "number": 65,
+    "team": "Galatasaray"
+  },
+  {
     "id": 80552,
     "name": "Gabriel Sara",
     "age": 26,
@@ -1075,7 +1107,7 @@
     "id": 18947,
     "name": "M. Lemina",
     "age": 32,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 99,
     "team": "Galatasaray"
   },
@@ -1091,7 +1123,7 @@
     "id": 454,
     "name": "Y. Akgün",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 11,
     "team": "Galatasaray"
   },
@@ -1723,7 +1755,7 @@
     "id": 61939,
     "name": "O. Ülgün",
     "age": 27,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 35,
     "team": "Genclerbirligi"
   },
@@ -3091,7 +3123,7 @@
     "id": 151971,
     "name": "T. Şahin",
     "age": 25,
-    "position": "Attacker",
+    "position": "Defender",
     "number": 37,
     "team": "Rizespor"
   },
@@ -3363,7 +3395,7 @@
     "id": 64304,
     "name": "K. Kozłowski",
     "age": 22,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 10,
     "team": "Gazişehir Gaziantep"
   },
@@ -3371,7 +3403,7 @@
     "id": 25921,
     "name": "A. Maxim",
     "age": 35,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 44,
     "team": "Gazişehir Gaziantep"
   },
