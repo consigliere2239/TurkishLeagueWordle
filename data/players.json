@@ -1731,7 +1731,7 @@
     "id": 30768,
     "name": "Pedro Pereira",
     "age": 27,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 13,
     "team": "Genclerbirligi"
   },
@@ -1859,7 +1859,7 @@
     "id": 7571,
     "name": "S. Koïta",
     "age": 26,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 22,
     "team": "Genclerbirligi"
   },
@@ -4267,7 +4267,7 @@
     "id": 50176,
     "name": "T. Bingöl",
     "age": 32,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 75,
     "team": "Kocaelispor"
   },
@@ -4419,7 +4419,7 @@
     "id": 87791,
     "name": "D. Agyei",
     "age": 28,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 7,
     "team": "Kocaelispor"
   },
@@ -4427,7 +4427,7 @@
     "id": 105789,
     "name": "D. Churlinov",
     "age": 25,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 17,
     "team": "Kocaelispor"
   },
