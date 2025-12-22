@@ -667,7 +667,7 @@
     "id": 550861,
     "name": "Pedrinho",
     "age": 28,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 8,
     "team": "Konyaspor"
   },
@@ -2467,7 +2467,7 @@
     "id": 68079,
     "name": "I. Tuci",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 22,
     "team": "Kayserispor"
   },
@@ -2843,7 +2843,7 @@
     "id": 36921,
     "name": "K. Paal",
     "age": 28,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 3,
     "team": "Antalyaspor"
   },
@@ -2875,7 +2875,7 @@
     "id": 49969,
     "name": "B. Balcı",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 7,
     "team": "Antalyaspor"
   },
@@ -2939,7 +2939,7 @@
     "id": 37182,
     "name": "S. van de Streek",
     "age": 32,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 22,
     "team": "Antalyaspor"
   },
