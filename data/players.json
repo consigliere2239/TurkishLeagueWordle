@@ -147,7 +147,7 @@
     "id": 550885,
     "name": "G. Sazdagi",
     "age": 31,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 25,
     "team": "Beşiktaş"
   },
@@ -155,7 +155,7 @@
     "id": 36889,
     "name": "J. Svensson",
     "age": 32,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 2,
     "team": "Beşiktaş"
   },
@@ -219,7 +219,7 @@
     "id": 573,
     "name": "Rafa",
     "age": 32,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 27,
     "team": "Beşiktaş"
   },
@@ -403,7 +403,7 @@
     "id": 50018,
     "name": "Ö. Şahiner",
     "age": 33,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 42,
     "team": "Başakşehir"
   },
@@ -419,7 +419,7 @@
     "id": 14602,
     "name": "I. Brnić",
     "age": 24,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 77,
     "team": "Başakşehir"
   },
@@ -1315,7 +1315,7 @@
     "id": 26128,
     "name": "E. Bekiroğlu",
     "age": 30,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 11,
     "team": "Göztepe"
   },
@@ -1523,7 +1523,7 @@
     "id": 43084,
     "name": "I. Hagi",
     "age": 27,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 14,
     "team": "Alanyaspor"
   },
@@ -1539,7 +1539,7 @@
     "id": 49941,
     "name": "E. Karaca",
     "age": 36,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 7,
     "team": "Alanyaspor"
   },
@@ -2531,7 +2531,7 @@
     "id": 16528,
     "name": "J. Espinoza",
     "age": 26,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 14,
     "team": "Kasımpaşa"
   },
@@ -2651,7 +2651,7 @@
     "id": 36906,
     "name": "Y. Barası",
     "age": 22,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 9,
     "team": "Kasımpaşa"
   },
@@ -2683,7 +2683,7 @@
     "id": 8642,
     "name": "M. Fall",
     "age": 34,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 7,
     "team": "Kasımpaşa"
   },
@@ -3899,7 +3899,7 @@
     "id": 24885,
     "name": "B. Özcan",
     "age": 27,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 8,
     "team": "Fatih Karagümrük"
   },
@@ -3931,7 +3931,7 @@
     "id": 309815,
     "name": "T. Çukur",
     "age": 23,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 21,
     "team": "Fatih Karagümrük"
   },
