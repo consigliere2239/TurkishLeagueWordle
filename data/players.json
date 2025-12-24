@@ -419,7 +419,7 @@
     "id": 14602,
     "name": "I. Brnić",
     "age": 24,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 77,
     "team": "Başakşehir"
   },
@@ -1555,7 +1555,7 @@
     "id": 302392,
     "name": "İ. Kaya",
     "age": 24,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 27,
     "team": "Alanyaspor"
   },
@@ -1573,6 +1573,14 @@
     "age": 28,
     "position": "Midfielder",
     "number": 42,
+    "team": "Alanyaspor"
+  },
+  {
+    "id": 629170,
+    "name": "Mehmet Oz",
+    "age": 17,
+    "position": "Defender",
+    "number": 15,
     "team": "Alanyaspor"
   },
   {
@@ -1731,7 +1739,7 @@
     "id": 30768,
     "name": "Pedro Pereira",
     "age": 27,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 13,
     "team": "Genclerbirligi"
   },
@@ -1747,7 +1755,7 @@
     "id": 61939,
     "name": "O. Ülgün",
     "age": 27,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 35,
     "team": "Genclerbirligi"
   },
@@ -3296,6 +3304,22 @@
     "team": "Gazişehir Gaziantep"
   },
   {
+    "id": 629168,
+    "name": "Ali Isik",
+    "age": 18,
+    "position": "Defender",
+    "number": 84,
+    "team": "Gazişehir Gaziantep"
+  },
+  {
+    "id": 629167,
+    "name": "Samet Kalkan Mehmet",
+    "age": 18,
+    "position": "Defender",
+    "number": 88,
+    "team": "Gazişehir Gaziantep"
+  },
+  {
     "id": 63284,
     "name": "A. Kızıldağ",
     "age": 27,
@@ -3331,7 +3355,7 @@
     "id": 47078,
     "name": "Luis Pérez",
     "age": 30,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 2,
     "team": "Gazişehir Gaziantep"
   },
@@ -3339,7 +3363,7 @@
     "id": 47304,
     "name": "Kévin Rodrigues",
     "age": 31,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 77,
     "team": "Gazişehir Gaziantep"
   },
@@ -3395,7 +3419,7 @@
     "id": 25921,
     "name": "A. Maxim",
     "age": 35,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 44,
     "team": "Gazişehir Gaziantep"
   },
@@ -3603,7 +3627,7 @@
     "id": 50174,
     "name": "H. Akbunar",
     "age": 32,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 7,
     "team": "Eyüpspor"
   },
