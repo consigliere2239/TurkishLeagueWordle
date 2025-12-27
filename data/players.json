@@ -4099,7 +4099,7 @@
     "id": 62681,
     "name": "S. Gönül",
     "age": 28,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 28,
     "team": "Samsunspor"
   },
@@ -4139,7 +4139,7 @@
     "id": 2139,
     "name": "Z. Yavru",
     "age": 34,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 18,
     "team": "Samsunspor"
   },
@@ -4171,7 +4171,7 @@
     "id": 15837,
     "name": "C. Holse",
     "age": 26,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 21,
     "team": "Samsunspor"
   },
@@ -4179,7 +4179,7 @@
     "id": 50091,
     "name": "E. Kılınç",
     "age": 31,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 11,
     "team": "Samsunspor"
   },
@@ -4251,7 +4251,7 @@
     "id": 37380,
     "name": "A. Musaba",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 7,
     "team": "Samsunspor"
   },
