@@ -139,7 +139,7 @@
     "id": 529859,
     "name": "Devrim Sahin",
     "age": 18,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 52,
     "team": "Beşiktaş"
   },
@@ -155,7 +155,7 @@
     "id": 36889,
     "name": "J. Svensson",
     "age": 32,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 2,
     "team": "Beşiktaş"
   },
@@ -179,7 +179,7 @@
     "id": 1997,
     "name": "N. Uysal",
     "age": 34,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 20,
     "team": "Beşiktaş"
   },
@@ -219,7 +219,7 @@
     "id": 573,
     "name": "Rafa",
     "age": 32,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 27,
     "team": "Beşiktaş"
   },
@@ -811,8 +811,16 @@
     "id": 134590,
     "name": "O. Aydın",
     "age": 25,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 70,
+    "team": "Fenerbahçe"
+  },
+  {
+    "id": 630584,
+    "name": "Alaettin Ekici",
+    "age": 16,
+    "position": "Midfielder",
+    "number": 54,
     "team": "Fenerbahçe"
   },
   {
@@ -891,7 +899,7 @@
     "id": 142959,
     "name": "K. Aktürkoğlu",
     "age": 27,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 9,
     "team": "Fenerbahçe"
   },
@@ -899,7 +907,7 @@
     "id": 746,
     "name": "Marco Asensio",
     "age": 29,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 21,
     "team": "Fenerbahçe"
   },
@@ -1123,7 +1131,7 @@
     "id": 454,
     "name": "Y. Akgün",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 11,
     "team": "Galatasaray"
   },
@@ -1179,7 +1187,7 @@
     "id": 644,
     "name": "L. Sané",
     "age": 29,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 10,
     "team": "Galatasaray"
   },
@@ -1187,7 +1195,7 @@
     "id": 63274,
     "name": "B. Yılmaz",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 53,
     "team": "Galatasaray"
   },
@@ -2307,7 +2315,7 @@
     "id": 1985,
     "name": "D. Toköz",
     "age": 29,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 24,
     "team": "Kayserispor"
   },
@@ -2323,7 +2331,7 @@
     "id": 578394,
     "name": "Y. Ait Bennasser",
     "age": 29,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 15,
     "team": "Kayserispor"
   },
@@ -2355,7 +2363,7 @@
     "id": 62419,
     "name": "R. Civelek",
     "age": 29,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 28,
     "team": "Kayserispor"
   },
@@ -2395,7 +2403,7 @@
     "id": 180756,
     "name": "T. Sarıarslan",
     "age": 21,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 99,
     "team": "Kayserispor"
   },
@@ -2419,7 +2427,7 @@
     "id": 53659,
     "name": "Miguel Cardoso",
     "age": 31,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 7,
     "team": "Kayserispor"
   },
@@ -2459,7 +2467,7 @@
     "id": 24860,
     "name": "Carlos Mané",
     "age": 31,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 20,
     "team": "Kayserispor"
   },
@@ -2475,7 +2483,7 @@
     "id": 24884,
     "name": "A. Opoku",
     "age": 26,
-    "position": "Defender",
+    "position": "Attacker",
     "number": 30,
     "team": "Kayserispor"
   },
@@ -2811,7 +2819,7 @@
     "id": 201026,
     "name": "J. Ceesay",
     "age": 24,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 23,
     "team": "Antalyaspor"
   },
@@ -2899,7 +2907,7 @@
     "id": 49969,
     "name": "B. Balcı",
     "age": 25,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 7,
     "team": "Antalyaspor"
   },
@@ -2907,7 +2915,7 @@
     "id": 152609,
     "name": "S. Ballet",
     "age": 24,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 11,
     "team": "Antalyaspor"
   },
@@ -2963,7 +2971,7 @@
     "id": 37182,
     "name": "S. van de Streek",
     "age": 32,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 22,
     "team": "Antalyaspor"
   },
