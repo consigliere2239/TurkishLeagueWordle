@@ -403,7 +403,7 @@
     "id": 50018,
     "name": "Ö. Şahiner",
     "age": 33,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 42,
     "team": "Başakşehir"
   },
@@ -435,7 +435,7 @@
     "id": 263676,
     "name": "A. Fayzullaev",
     "age": 22,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 11,
     "team": "Başakşehir"
   },
@@ -459,7 +459,7 @@
     "id": 53535,
     "name": "E. Shomurodov",
     "age": 30,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 14,
     "team": "Başakşehir"
   },
@@ -603,7 +603,7 @@
     "id": 62023,
     "name": "Y. Subaşı",
     "age": 29,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 3,
     "team": "Konyaspor"
   },
@@ -611,7 +611,7 @@
     "id": 50063,
     "name": "U. Yazğılı",
     "age": 26,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 5,
     "team": "Konyaspor"
   },
@@ -627,7 +627,7 @@
     "id": 47512,
     "name": "Y. Andzouana",
     "age": 29,
-    "position": "Defender",
+    "position": "Attacker",
     "number": 23,
     "team": "Konyaspor"
   },
@@ -643,7 +643,7 @@
     "id": 144656,
     "name": "J. Muleka",
     "age": 26,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 40,
     "team": "Konyaspor"
   },
@@ -667,7 +667,7 @@
     "id": 550861,
     "name": "Pedrinho",
     "age": 28,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 8,
     "team": "Konyaspor"
   },
@@ -1267,7 +1267,7 @@
     "id": 195897,
     "name": "A. Cherni",
     "age": 24,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 15,
     "team": "Göztepe"
   },
@@ -1323,7 +1323,7 @@
     "id": 301272,
     "name": "T. Altıkardeş",
     "age": 22,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 4,
     "team": "Göztepe"
   },
@@ -1331,7 +1331,7 @@
     "id": 26128,
     "name": "E. Bekiroğlu",
     "age": 30,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 11,
     "team": "Göztepe"
   },
@@ -1403,7 +1403,7 @@
     "id": 328155,
     "name": "A. Kurtulan",
     "age": 23,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 2,
     "team": "Göztepe"
   },
@@ -1451,7 +1451,7 @@
     "id": 50079,
     "name": "F. Aksoy",
     "age": 28,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 20,
     "team": "Alanyaspor"
   },
@@ -1483,7 +1483,7 @@
     "id": 19042,
     "name": "F. Hadërgjonaj",
     "age": 31,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 94,
     "team": "Alanyaspor"
   },
@@ -1555,7 +1555,7 @@
     "id": 49941,
     "name": "E. Karaca",
     "age": 36,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 7,
     "team": "Alanyaspor"
   },
@@ -1595,7 +1595,7 @@
     "id": 629170,
     "name": "Mehmet Oz",
     "age": 17,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 15,
     "team": "Alanyaspor"
   },
@@ -1643,7 +1643,7 @@
     "id": 384398,
     "name": "Ruan",
     "age": 20,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 11,
     "team": "Alanyaspor"
   },
@@ -1771,7 +1771,7 @@
     "id": 61939,
     "name": "O. Ülgün",
     "age": 27,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 35,
     "team": "Genclerbirligi"
   },
@@ -1867,7 +1867,7 @@
     "id": 41590,
     "name": "K. Csoboth",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 17,
     "team": "Genclerbirligi"
   },
@@ -1875,7 +1875,7 @@
     "id": 427020,
     "name": "Dilhan Demir",
     "age": 22,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 21,
     "team": "Genclerbirligi"
   },
@@ -1891,7 +1891,7 @@
     "id": 107660,
     "name": "M. Mimaroğlu",
     "age": 31,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 10,
     "team": "Genclerbirligi"
   },
@@ -1907,7 +1907,7 @@
     "id": 202992,
     "name": "S. Onur",
     "age": 23,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 8,
     "team": "Genclerbirligi"
   },
@@ -1923,7 +1923,7 @@
     "id": 161972,
     "name": "F. Tongya",
     "age": 23,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 70,
     "team": "Genclerbirligi"
   },
@@ -2139,7 +2139,7 @@
     "id": 3638,
     "name": "E. Muçi",
     "age": 24,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 10,
     "team": "Trabzonspor"
   },
@@ -2171,7 +2171,7 @@
     "id": 107303,
     "name": "D. Sikan",
     "age": 24,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 14,
     "team": "Trabzonspor"
   },
@@ -2179,7 +2179,7 @@
     "id": 105320,
     "name": "O. Zubkov",
     "age": 29,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 22,
     "team": "Trabzonspor"
   },
@@ -2563,7 +2563,7 @@
     "id": 16528,
     "name": "J. Espinoza",
     "age": 26,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 14,
     "team": "Kasımpaşa"
   },
@@ -2699,7 +2699,7 @@
     "id": 50101,
     "name": "F. Diabaté",
     "age": 30,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 34,
     "team": "Kasımpaşa"
   },
@@ -2715,7 +2715,7 @@
     "id": 8642,
     "name": "M. Fall",
     "age": 34,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 7,
     "team": "Kasımpaşa"
   },
@@ -3195,7 +3195,7 @@
     "id": 151943,
     "name": "M. Pala",
     "age": 25,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 54,
     "team": "Rizespor"
   },
@@ -3219,7 +3219,7 @@
     "id": 289306,
     "name": "Loide Augusto",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 50,
     "team": "Rizespor"
   },
@@ -3259,7 +3259,7 @@
     "id": 180644,
     "name": "I. Olawoyin",
     "age": 28,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 10,
     "team": "Rizespor"
   },
@@ -3283,7 +3283,7 @@
     "id": 127164,
     "name": "A. Zeqiri",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 77,
     "team": "Rizespor"
   },
@@ -3387,7 +3387,7 @@
     "id": 47078,
     "name": "Luis Pérez",
     "age": 30,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 2,
     "team": "Gazişehir Gaziantep"
   },
@@ -3395,7 +3395,7 @@
     "id": 47304,
     "name": "Kévin Rodrigues",
     "age": 31,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 77,
     "team": "Gazişehir Gaziantep"
   },
@@ -3451,7 +3451,7 @@
     "id": 25921,
     "name": "A. Maxim",
     "age": 35,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 44,
     "team": "Gazişehir Gaziantep"
   },
@@ -3475,7 +3475,7 @@
     "id": 43194,
     "name": "D. Sorescu",
     "age": 28,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 18,
     "team": "Gazişehir Gaziantep"
   },
@@ -3491,7 +3491,7 @@
     "id": 19047,
     "name": "J. Bacuna",
     "age": 28,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 7,
     "team": "Gazişehir Gaziantep"
   },
@@ -3576,6 +3576,14 @@
     "team": "Eyüpspor"
   },
   {
+    "id": 630300,
+    "name": "Kerim Yerlikaya",
+    "age": 17,
+    "position": "Goalkeeper",
+    "number": 60,
+    "team": "Eyüpspor"
+  },
+  {
     "id": 327517,
     "name": "J. Yılmaz",
     "age": 21,
@@ -3584,11 +3592,43 @@
     "team": "Eyüpspor"
   },
   {
+    "id": 630297,
+    "name": "Talha Akkaya",
+    "age": 17,
+    "position": "Defender",
+    "number": 57,
+    "team": "Eyüpspor"
+  },
+  {
+    "id": 630292,
+    "name": "Ömer Ahmet Ceyhan",
+    "age": 18,
+    "position": "Attacker",
+    "number": 65,
+    "team": "Eyüpspor"
+  },
+  {
+    "id": 630301,
+    "name": "Levent Deniz",
+    "age": 17,
+    "position": "Defender",
+    "number": 37,
+    "team": "Eyüpspor"
+  },
+  {
     "id": 626938,
     "name": "Burak Isik",
     "age": 17,
     "position": "Defender",
     "number": 43,
+    "team": "Eyüpspor"
+  },
+  {
+    "id": 630302,
+    "name": "Samet Kalan",
+    "age": 17,
+    "position": "Defender",
+    "number": 62,
     "team": "Eyüpspor"
   },
   {
@@ -3656,11 +3696,19 @@
     "team": "Eyüpspor"
   },
   {
-    "id": 50174,
-    "name": "H. Akbunar",
-    "age": 32,
+    "id": 630295,
+    "name": "Ömer Ay",
+    "age": 17,
     "position": "Midfielder",
-    "number": 7,
+    "number": 78,
+    "team": "Eyüpspor"
+  },
+  {
+    "id": 630293,
+    "name": "Deniz Aydogdu",
+    "age": 17,
+    "position": "Attacker",
+    "number": 56,
     "team": "Eyüpspor"
   },
   {
@@ -3747,8 +3795,16 @@
     "id": 49917,
     "name": "R. Yalçın",
     "age": 31,
-    "position": "Defender",
+    "position": "Midfielder",
     "number": 6,
+    "team": "Eyüpspor"
+  },
+  {
+    "id": 50174,
+    "name": "H. Akbunar",
+    "age": 32,
+    "position": "Attacker",
+    "number": 7,
     "team": "Eyüpspor"
   },
   {
@@ -3768,6 +3824,22 @@
     "team": "Eyüpspor"
   },
   {
+    "id": 630294,
+    "name": "Eren Aydogdu",
+    "age": 17,
+    "position": "Attacker",
+    "number": 38,
+    "team": "Eyüpspor"
+  },
+  {
+    "id": 630298,
+    "name": "Berke Baran",
+    "age": 18,
+    "position": "Attacker",
+    "number": 63,
+    "team": "Eyüpspor"
+  },
+  {
     "id": 21447,
     "name": "U. Bozok",
     "age": 29,
@@ -3776,10 +3848,18 @@
     "team": "Eyüpspor"
   },
   {
+    "id": 630305,
+    "name": "Ridvan Canibek",
+    "age": 16,
+    "position": "Attacker",
+    "number": 61,
+    "team": "Eyüpspor"
+  },
+  {
     "id": 43092,
     "name": "D. Drăguş",
     "age": 26,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 70,
     "team": "Eyüpspor"
   },
@@ -3787,7 +3867,7 @@
     "id": 50180,
     "name": "S. Gürler",
     "age": 34,
-    "position": "Defender",
+    "position": "Attacker",
     "number": 11,
     "team": "Eyüpspor"
   },
@@ -3795,8 +3875,24 @@
     "id": 50464,
     "name": "M. Thiam",
     "age": 33,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 9,
+    "team": "Eyüpspor"
+  },
+  {
+    "id": 630299,
+    "name": "Ömer Faruk Uğurlu",
+    "age": 19,
+    "position": "Attacker",
+    "number": 94,
+    "team": "Eyüpspor"
+  },
+  {
+    "id": 630304,
+    "name": "Emir Yalcin",
+    "age": 17,
+    "position": "Attacker",
+    "number": 71,
     "team": "Eyüpspor"
   },
   {
@@ -3955,7 +4051,7 @@
     "id": 24885,
     "name": "B. Özcan",
     "age": 27,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 8,
     "team": "Fatih Karagümrük"
   },
@@ -3987,7 +4083,7 @@
     "id": 309815,
     "name": "T. Çukur",
     "age": 23,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 21,
     "team": "Fatih Karagümrük"
   },
@@ -4035,7 +4131,7 @@
     "id": 109559,
     "name": "Serginho",
     "age": 30,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 70,
     "team": "Fatih Karagümrük"
   },
@@ -4152,6 +4248,14 @@
     "team": "Samsunspor"
   },
   {
+    "id": 630296,
+    "name": "Muhammet Talha Akyüz",
+    "age": 17,
+    "position": "Midfielder",
+    "number": 45,
+    "team": "Samsunspor"
+  },
+  {
     "id": 528244,
     "name": "Franck Atoen",
     "age": 19,
@@ -4173,6 +4277,14 @@
     "age": 34,
     "position": "Midfielder",
     "number": 8,
+    "team": "Samsunspor"
+  },
+  {
+    "id": 521018,
+    "name": "Eyup Degirmenci",
+    "age": 18,
+    "position": "Midfielder",
+    "number": 73,
     "team": "Samsunspor"
   },
   {
@@ -4323,7 +4435,7 @@
     "id": 50176,
     "name": "T. Bingöl",
     "age": 32,
-    "position": "Midfielder",
+    "position": "Defender",
     "number": 75,
     "team": "Kocaelispor"
   },
@@ -4451,7 +4563,7 @@
     "id": 31280,
     "name": "R. Rivas",
     "age": 27,
-    "position": "Attacker",
+    "position": "Midfielder",
     "number": 99,
     "team": "Kocaelispor"
   },
@@ -4475,7 +4587,7 @@
     "id": 87791,
     "name": "D. Agyei",
     "age": 28,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 7,
     "team": "Kocaelispor"
   },
@@ -4483,7 +4595,7 @@
     "id": 105789,
     "name": "D. Churlinov",
     "age": 25,
-    "position": "Midfielder",
+    "position": "Attacker",
     "number": 17,
     "team": "Kocaelispor"
   },
